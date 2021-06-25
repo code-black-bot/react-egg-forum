@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "4399wzlABC",
+    "database": "huodong",
+    "host": "localhost",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "4399wzlABC",
+    "database": "huodong",
+    "host": "localhost",
+    "port": "3306",
+    "dialect": "mysql"
+  }
+}
